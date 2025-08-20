@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- rotation_v1_configmaprotator.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
